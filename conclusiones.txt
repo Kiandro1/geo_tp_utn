@@ -1,0 +1,10 @@
+Conclusiones del Proyecto: Análisis Espacial y Temporal de Barrios Cerrados en Berazategui
+1. Dinámica de Expansión Urbana y Metodología SIG
+Crecimiento Exponencial del Corredor Hudson: El análisis cartográfico quinquenal evidencia que la expansión de urbanizaciones cerradas en el partido de Berazategui se ha concentrado fuertemente sobre el eje del Corredor Hudson, transformando de manera acelerada matrices rurales y periurbanas en áreas residenciales de alta renta.
+
+Eficiencia y Escalabilidad del Stack Geoespacial: La implementación de flujos automatizados en Python utilizando geopandas, shapely y contextily permitió procesar eficientemente geometrías complejas mediante simplificación topológica (tolerance=5.0), resolviendo limitaciones de memoria RAM y garantizando la reproducibilidad del pipeline cartográfico a escala municipal.
+
+2. Impacto Ambiental y Territorial
+Presión sobre Áreas Verdes y Reservas: El cruce espacial (overlay) entre la evolución acumulada de los barrios cerrados y las capas de espacios naturales protegidos, bosques, arboledas y pulmones verdes demuestra una progresiva fragmentación del corredor ecológico ribereño y sur de la ecorregión pampeana/deltaica.
+
+Tasa de Ocupación del Suelo: Si bien la superficie total afectada por barrios cerrados representa un porcentaje acotado del total de la superficie del partido de Berazategui, su localización estratégica sobre suelos de alto valor ecológico y agrícola genera un impacto ambiental desproporcionado respecto a su área absoluta.
